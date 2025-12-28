@@ -12,3 +12,8 @@ programming langs:
 
 ![Python](https://readmebadge.vercel.app/badges/python.svg)
 <img width="50" height="50" alt="kép" src="https://github.com/user-attachments/assets/e2ffdeb6-de60-4f74-9659-0ded96beceea" />
+<a href="https://vlang.io"><img width="50" height="50" src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true" alt="V Logo" width="200"></a>
+
+
+
+
